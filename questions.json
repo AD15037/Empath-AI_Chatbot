@@ -1,0 +1,39 @@
+{
+    "questions": {
+      "sadness": [
+        "Can you describe what's making you feel this way?",
+        "Have you experienced this feeling before? If so, what helped you cope?",
+        "Do you feel like talking to someone about this might help?"
+      ],
+      "stress": [
+        "On a scale of 1-10, how overwhelming do you feel right now?",
+        "What specific tasks or situations are causing you the most stress?",
+        "Have you been able to take breaks or do something relaxing recently?"
+      ],
+      "anger": [
+        "What happened that made you feel this way?",
+        "Do you feel this anger is directed at a specific person or situation?",
+        "How do you usually deal with anger in moments like this?"
+      ],
+      "anxiety": [
+        "Are there particular thoughts or events that are making you anxious?",
+        "Have you been able to calm yourself or manage similar feelings in the past?",
+        "Does this feeling interfere with your daily life or activities?"
+      ],
+      "happiness": [
+        "What’s making you feel happy today?",
+        "Is there something specific that you’re looking forward to right now?",
+        "Would you like to share this moment of joy with someone close to you?"
+      ],
+      "fear": [
+        "Can you share what’s causing you to feel afraid?",
+        "Is there a specific outcome you’re worried about?",
+        "Do you have someone you trust to help you feel more secure in this situation?"
+      ],
+      "loneliness": [
+        "Do you feel like connecting with someone could help right now?",
+        "Have you been able to spend time with people who care about you recently?",
+        "Would you like assistance in finding resources or activities to connect with others?"
+      ]
+    }
+  }

@@ -1,0 +1,10 @@
+Flask
+vaderSentiment
+langchain_openai
+python-dotenv
+streamlit
+langchain_community
+langserve
+speechrecognition
+pyaudio
+pyttsx3
