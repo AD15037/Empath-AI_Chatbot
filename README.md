@@ -1,0 +1,1 @@
+A Chatbot where users can express whatever they are feeling through chat or speaking. Chatbot give some recommendations like soothing music playlists to listen, articles to read and meditation videos based on Mood.
